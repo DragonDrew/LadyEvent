@@ -1,4 +1,4 @@
-package com.elysiumevents;
+package com.elysiumeventsLady;
 
 import net.runelite.api.Client;
 import net.runelite.client.ui.overlay.OverlayMenuEntry;
