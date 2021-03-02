@@ -1,4 +1,4 @@
-package com.elysiumevents;
+package com.elysiumeventsLady;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
