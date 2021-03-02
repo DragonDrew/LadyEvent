@@ -1,4 +1,4 @@
-package com.elysiumevents;
+package com.elysiumeventsLady;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
